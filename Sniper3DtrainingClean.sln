@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A60857AB-55DA-381F-0705-526216886CC2}") = "Sniper3DtrainingClean", "Assembly-CSharp.csproj", "{0EEF7698-F2F9-75C8-BC48-045AAF516D72}"
+EndProject
+Project("{A60857AB-55DA-381F-0705-526216886CC2}") = "Sniper3DtrainingClean", "Assembly-CSharp-Editor.csproj", "{79AE23BA-C63B-2A5D-F439-1032D6986B2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EEF7698-F2F9-75C8-BC48-045AAF516D72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EEF7698-F2F9-75C8-BC48-045AAF516D72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EEF7698-F2F9-75C8-BC48-045AAF516D72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EEF7698-F2F9-75C8-BC48-045AAF516D72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79AE23BA-C63B-2A5D-F439-1032D6986B2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79AE23BA-C63B-2A5D-F439-1032D6986B2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79AE23BA-C63B-2A5D-F439-1032D6986B2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79AE23BA-C63B-2A5D-F439-1032D6986B2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
